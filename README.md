@@ -1,4 +1,4 @@
-# SWAT2012SubSantaLucia_demo
+# SubSantaLucia_SWAT2012_demo
 
 Este es un repositorio creado para obtener infromación sobre como iniciar un proyecto SWAT2012 en una subcuenca del Río Santa Lucia en Uruguay.
 Tiene origen en el proyecto piloto del Uso del modelo SWAT para planificar la gestión de los recursos hídricos en Uruguay.
