@@ -1,0 +1,3 @@
+Datos pcp para ingresar a SWAT2012 de estaciones INUMET. Para cada estación meteorológica donde se mide precipitación, se crea un archivo txt donde están los
+datos a paso diario. La primera línea representa el año, el mes y el día. Las otras líneas representan
+las precipitaciones por dia en mm. 

@@ -1,0 +1,35 @@
+## Datos de clima para ingresar al modelo 
+
+Para cada variable climática necesaria para el modelo SWAT, hay que preparar 2 tipos de archivos txt:
+1) Un archivo con la descripción de cada estación de meteorológica:
+- ID
+- Nombre de la estación
+- Latitud
+- Longitud
+- Elevación
+Descripción de la o las estaciones meteorológicas. En este caso se utilizó INIA Las Brujas
+
+|Archivo | Dato | Tipo | 
+|hmd.txt |Humedad relativa (porcentaje)|1| 
+|slr.txt |Radiación Solar kJ m-2 dia-1|1| 
+|tmp.txt |Temperatura máx y min °C|1| 
+|wnd.txt |Velocidad viento m s-1|1| 
+|SLnivel5.txt|Precipitación diaria mm|1|
+
+
+2) Por cada estación de medida se crea otro txt que contiene los valores medidos:
+- La primera línea contiene la fecha de inicio de las medidas
+- Las otras líneas contienen los valores medidos por orden cronológico a paso diario
+- El archivo txt tiene que tener el nombre de la estación meteorologica
+
+En este caso se utilizó una estación climatológica INIA Las Brujas para datos de humedad, radiación solar, temperatura y velocidad de viento (h1,s1,t1,w1). 
+Se utilizaron 46 pluviómetros de INUMET cuyos datos están en la carpeta pcp_nivel5
+
+|Archivo | Dato | Tipo | 
+|h1.txt |Humedad relativa (porcentaje)|2| 
+|s1.txt |Radiación Solar kJ m-2 dia-1|2| 
+|t1.txt |Temperatura °C|2| 
+|w1.txt |Velocidad viento m s-1|2| 
+|p1.txt a p46.txt|Precipitación diaria mm|2|
+
+![estaciones](/inumet_station_imfia_dinagua.jpg)
