@@ -4,3 +4,6 @@ químicas y físicas de las calicatas del suelo dominante de cada UM.
 Los datos de los suelos fueron seleccionados con la ayuda de los expertos del Departamento de Estudios Básicos de Suelo de la DGRN-MGAP.
 
 La subcuenca en estudio comprende un total de 37 tipos de UM según la nueva Carta de Reconocimiento de Suelos del Uruguay a escala 1:40.000 (DGRN-MGAP) según
+
+La tabla usersoil fue creada utilizando las características físicas y químicas para cada tipo de suelo y la descripción de cada parámetro en el manual de SWAT
+La tabla de ID de suelos es soil_subsantalucia.csv
