@@ -7,3 +7,6 @@ El mapa fue intersectado con la capa de padrones lecheros de la subcuenca obteni
 la localización de los padrones que tiene como rubro de actividad tambos. Los polígonos de cultivos LCCS 2000 con categoría “Cultivos de Secano > 4-5 has”, “Cultivos de
 Secano <4-5 has” y “Herbáceo natural” que se superponen a padrones lecheros fueron aislados y nominados con un nuevo uso de suelo que corresponde a la rotación más típica de los tambos en
 esta subcuenca: “Lechería”, con el código “LECH”.
+
+La tabla crop contiene características biológicas para cada uno de los cultivos de la base de datos de SWAT. Los utilizados en este modelo fueron adaptados segun la consulta con expertos locales.
+La tabla Opschedlues se utiliza para asignar una rotacion a los usos de suelo. Se utilizaron rotaciones representativas por el mismo procedimiento que el anteriormente mencionado.
