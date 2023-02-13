@@ -10,4 +10,6 @@ Se disponibiliza un DEMO con fines educativos en el que la guía principal es el
 Los documentos se encuentran en su mayoría en español pero pueden contener partes en ingles.
 
 
-Elaborado por Grupo 2022 https://enervifa.github.io/proyectoINIA-IRI-USYD/
+Elaborado por Grupo de Modelación Integrada de Cuenca (GMIC) 
+website: https://proyectoinia-iri-usyd.github.io/GmicUy/grupo.html 
+@GmicUy
