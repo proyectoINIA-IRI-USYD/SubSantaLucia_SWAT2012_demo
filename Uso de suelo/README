@@ -1,0 +1,9 @@
+Se eligió trabajar con los mapas de uso de suelo correspondientes al año 2000.
+Se utilizaron los mapas de MVOTMA-DINOT que tiene como nombre “Land Cover Classification (LCCS) 2000 FAO” y “Land Cover Classification
+(LCCS) 2015 FAO”. Se pueden descargar estos mapas en el enlace siguiente: http://sit.mvotma.gub.uy/websdatos/cobertura.html. En el mismo enlace se encuentra la
+leyenda de esta capa y la metodología aplicada.
+
+El mapa fue intersectado con la capa de padrones lecheros de la subcuenca obtenida por DICOSE del año 2016 (http://www.mgap.gub.uy/institucional/datos-abiertos). Esta capa representa
+la localización de los padrones que tiene como rubro de actividad tambos. Los polígonos de cultivos LCCS 2000 con categoría “Cultivos de Secano > 4-5 has”, “Cultivos de
+Secano <4-5 has” y “Herbáceo natural” que se superponen a padrones lecheros fueron aislados y nominados con un nuevo uso de suelo que corresponde a la rotación más típica de los tambos en
+esta subcuenca: “Lechería”, con el código “LECH”.
