@@ -1,0 +1,6 @@
+Los inputs de SWAT en referencia a los suelos corresponden a un mapa en formato raster representando las diferentes unidades de mapeo (UM), para lo cual se contó con la nueva Carta de
+Reconocimiento de Suelos del Uruguay a escala 1:40.000 de DGRN-MGAP (se puede visualizar desde el siguiente enlace: http://dgrn.mgap.gub.uy/js/visores/cartasuelos), e información de propiedades
+químicas y físicas de las calicatas del suelo dominante de cada UM.
+Los datos de los suelos fueron seleccionados con la ayuda de los expertos del Departamento de Estudios Básicos de Suelo de la DGRN-MGAP.
+
+La subcuenca en estudio comprende un total de 37 tipos de UM según la nueva Carta de Reconocimiento de Suelos del Uruguay a escala 1:40.000 (DGRN-MGAP) según
